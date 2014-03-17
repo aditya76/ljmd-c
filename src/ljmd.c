@@ -14,6 +14,10 @@
 #include <omp.h>
 #endif
 
+/* Added new information for Add-timer branch*/
+/*Show up if you worked! ABCDEFG*/
+
+
 /* generic file- or pathname buffer length */
 #define BLEN 200
 #define LJMD_VERSION "ljmdc AK v0.1"
