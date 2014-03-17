@@ -13,6 +13,10 @@
 #include <omp.h>
 #endif
 
+/* Added new information for Add-timer branch*/
+/*Show up if you worked! ABCDEFG*/
+
+
 /* generic file- or pathname buffer length */
 #define BLEN 200
 
