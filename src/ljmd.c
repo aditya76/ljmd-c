@@ -9,12 +9,17 @@
 #include <stdlib.h>
 #include <math.h>
 
+
 #if defined(_OPENMP)
 #include <omp.h>
 #endif
 
 /* generic file- or pathname buffer length */
 #define BLEN 200
+#define LJMD_VERSION "ljmdc AK v0.1"
+
+/* Added new stuff to the code for testing git*/
+/*Added  more after adding to repo*/
 
 /* a few physical constants */
 const double kboltz=0.0019872067;     /* boltzman constant in kcal/mol/K */
